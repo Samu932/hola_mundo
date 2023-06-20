@@ -1,2 +1,17 @@
 # hola_mundo
-trabajo terminado clase 10
+
+Mi primer repositorio
+
+I love 🌲,🎞️, 🍕
+
+I love 🐴 ,💻 ,🛵
+
+mi ultima linea en mi repositorio 
+
+nueva actividad 
+
+finalizado con github
+
+
+
+
