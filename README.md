@@ -2,9 +2,9 @@
 
 Mi primer repositorio
 
-I love 🌲,🎞️, 🍕
+me gusta las el comapo, los caballos, y las pizzas
 
-I love 🐴 ,💻 ,🛵
+me interesan la tecnologia, mecanica, y las motos
 
 mi ultima linea en mi repositorio 
 
